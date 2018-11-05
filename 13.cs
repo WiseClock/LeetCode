@@ -1,5 +1,7 @@
-public class Solution {
-    public int RomanToInt(string s) {
+public class Solution
+{
+    public int RomanToInt(string s)
+    {
         int val = 0;
         for (int i = 0; i < s.Length; ++i)
         {
